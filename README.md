@@ -146,7 +146,7 @@ Setelah itu pindai kode QR menggunakan WhatsApp Anda di ponsel Anda!
 | :-------------------: | :----------: |
 | Money Check           |      ✔️      |
 | Buy Limit             |      ✔️      |
-| Transfer Money        |     Soon      |
+| Transfer Money        |      ✔️      |
 
 |      Downloader     | Availability |
 | :-----------------: | :----------: |
