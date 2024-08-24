@@ -1,4 +1,14 @@
-<div align="center">
+missing script: start
+       at run (C:\Program Files\nodejs\node_modules\npm\lib\run-script.js:142:19)
+       at C:\Program Files\nodejs\node_modules\npm\lib\run-script.js:58:5
+       at C:\Program Files\nodejs\node_modules\npm\node_modules\read-package-json\read-json.js:345:5
+       at checkBinReferences_ (C:\Program Files\nodejs\node_modules\npm\node_modules\read-package-json\read-json.js:309:45)
+       at final (C:\Program Files\nodejs\node_modules\npm\node_modules\read-package-json\read-json.js:343:3)
+       at then (C:\Program Files\nodejs\node_modules\npm\node_modules\read-package-json\read-json.js:113:5)
+       at C:\Program Files\nodejs\node_modules\npm\node_modules\read-package-json\read-json.js:300:12
+       at evalmachine.<anonymous>:334:14
+       at C:\Program Files\nodejs\node_modules\npm\node_modules\graceful-fs\graceful-fs.js:102:5
+       at FSReqWrap.oncomplete (evalmachine.<anonymous>:95:15)<div align="center">
 <img src="http://piyobot.000webhostapp.com/822161.png" alt="Piyobot" width="400" />
 
 # Piyobot
